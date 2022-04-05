@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Stewart; Product Manager at Extron (@pstewartextron)
+- 👋 Hi, I’m Paul Stewart; Product Manager at Extron (@pstewart-extron)
 - 👀 I’m interested in Python, ControlScript, AV Control Systems, Building Management Systems (KNX, BACnet, Niagara).
 - 🌱 I’m currently learning post pandemic reemergence skills.
 - 💞️ I’m looking to collaborate on ControlScript and Extron AV Control Systems.
